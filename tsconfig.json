@@ -19,11 +19,11 @@
       "dom"
     ],
     "paths": {
-      "material": [
-        "dist/material"
+      "@angular-fubon/material": [
+        "projects/material/src/public-api.ts"
       ],
-      "material/*": [
-        "dist/material/*"
+      "@angular-fubon/material/*": [
+        "projects/material/src/*"
       ]
     }
   },
